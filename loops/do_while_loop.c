@@ -6,4 +6,6 @@ int main ()
         printf("THIS IS THE %d\n", i);
         i++;
     }while(i<5);
+    
+    return 0;
 }
